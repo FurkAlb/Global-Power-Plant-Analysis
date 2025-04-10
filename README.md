@@ -1,3 +1,4 @@
+
 # Global Power Plant Database Analysis
 
 This project provides an interactive analysis of the Global Power Plant Database using Python and Streamlit. It enables users to explore energy generation patterns worldwide and includes predictive modeling capabilities.
@@ -29,22 +30,19 @@ This project provides an interactive analysis of the Global Power Plant Database
 ```bash
 pip install -r requirements.txt
 ```
-
 3. Run the Streamlit app:
-bash
+```bash
 streamlit run app.py
-
+```
 
 ## Project Structure
 
+```
 ├── app.py                         # Main Streamlit application
-
 ├── energy_data_analysis.ipynb     # Jupyter notebook with detailed analysis
-
 ├── energy_data_app.py            # Supporting application code
-
 └── global_power_plant_database.csv # Dataset
-
+```
 
 ## Features in Detail
 
@@ -80,5 +78,3 @@ MIT License
 3. Commit your changes
 4. Push to the branch
 5. Create a new Pull Request
-
-
