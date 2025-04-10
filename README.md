@@ -38,8 +38,11 @@ streamlit run app.py
 ## Project Structure
 
 ├── app.py                         # Main Streamlit application
+
 ├── energy_data_analysis.ipynb     # Jupyter notebook with detailed analysis
+
 ├── energy_data_app.py            # Supporting application code
+
 └── global_power_plant_database.csv # Dataset
 
 
